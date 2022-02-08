@@ -1,6 +1,7 @@
 # Richard Yetkili Görev Ve İstatistik Sistemi
 
-- Yapımı bitti herhangi bir isteğim yok, hafta içinde önce ssleri sonra botu atmış olurum.
+- Projenin çoğu önceki projelerin düzenlemelerinde dediğim gibi, bilgisayarımın çökmeleri yüzünden silinmiş durumda.
+- Eksikleri, hataları ve silinen kısımları tekrar yapıcağım, ancak botu `.NET Framework` sürümleri "Windows 7"de tam çalışmadığı için botu deneyemiyorum, yeni bilgisayar geçicem geçtiğim gibi projeyi yapıma başlıcağım, ilginiz için teşekkürler iyi günler.
 - Sistem genel olarak public sunucularda kullanılabilir şekilde yapılmıştır.
 
 Yardımları için [Thâns](https://github.com/ThansEX)'a teşekkür ediyorum.
